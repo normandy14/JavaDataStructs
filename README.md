@@ -1,16 +1,16 @@
 # JavaDataStructs
 
-Implementation of data structures in Java
+Implementation of data structures in Java. Not for production or internal use. 
 
 ## Description
 
-Fundamental data structures implemented in Java. Data Structures efficently implemented allows for lover 0(n) time for computer operations utilizing said data structures.
+Fundamental data structures implemented in Java. Data Structures efficently implemented allows for lover 0(n) time for computer operations utilizing said data structures. 
 The data structures implemented in this repository are the following:
 
-* Binary Tree
-* Stack
-* Queue
-* Hash Map
+* :coffee: Binary Tree
+* :coffee: Stack
+* :coffee: Queue
+* :coffee: Hash Map
 
 ## Getting Started
 
