@@ -1,6 +1,6 @@
 # JavaDataStructs
 
-Implementation of data structures in Java. Not for production or internal use. 
+Implementation of data structures in Java. Not for production or internal use. Has only basic functionality of each data structure.
 
 ## Description
 
