@@ -16,11 +16,11 @@ The data structures implemented in this repository are the following:
 
 ### Dependencies
 
-* Requires Java Development Kit
+* Requires Java Development Kit, JDK
 
 ### Installing
 
-* To install the JDK, [JDK](https://docs.oracle.com/en/java/javase/17/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A)
+* To install the ava Development JDK, [JDK](https://docs.oracle.com/en/java/javase/17/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A)
 
 ### Executing program
 
