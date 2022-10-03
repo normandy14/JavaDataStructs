@@ -1,0 +1,38 @@
+# JavaDataStructs
+
+Implementation of data structures in Java
+
+## Description
+
+Fundamental data structures implemented in Java. Data Structures efficently implemented allows for lover 0(n) time for computer operations utilizing said data structures.
+The data structures implemented in this repository are the following:
+
+* Binary Tree
+* Stack
+* Queue
+* Hash Map
+
+## Getting Started
+
+### Dependencies
+
+* Requires Java Development Kit
+
+### Installing
+
+* To install [jJDK](https://docs.oracle.com/en/java/javase/17/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A)
+
+### Executing program
+
+The easiest method is the following:
+* Install Eclipse, or equivalent Java IDE
+* Import folders in this repo as new Java Projects
+* Select a project and run in Java IDE
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
+## Authors
+
+* :ocean: **Normandy14** - *Initial work* - [Github Account](https://github.com/Normandy14)
